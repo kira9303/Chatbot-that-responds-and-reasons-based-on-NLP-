@@ -14,3 +14,8 @@ do make sure to download the dependant modules.
 Enjoy :)
 
 Feel free to modify the code!
+
+Also, You can ask the bot for netflix recommendations as well!.
+The bot currently opens whatsapp web and google as well!. 
+
+Will plan on increasing it's functionality and adding an audio input feature in near feature :)
